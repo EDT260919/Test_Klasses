@@ -29,5 +29,6 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <constants>Constant.ФИО</constants>
   <catalogs>Catalog.Товары</catalogs>
 </mdclass:Configuration>

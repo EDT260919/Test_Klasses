@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="ec770cfc-c7f1-49cb-aeb8-1da345dbea85">
+  <producedTypes>
+    <managerType typeId="9f4c327f-a44b-4804-ac23-aaee70f5322b" valueTypeId="a59cfb36-a0a7-4e20-af91-e0cc3f5d8bc8"/>
+    <valueManagerType typeId="dafe3bb2-27df-415b-82b3-ca897f1073cc" valueTypeId="39707275-1b62-4814-a424-97d78a2e4102"/>
+    <valueKeyType typeId="78c34908-b93d-4d8f-a759-9afbdddf7294" valueTypeId="b4916855-f2f7-413e-8d77-8dab1ea4b454"/>
+  </producedTypes>
+  <name>ФИО</name>
+  <synonym>
+    <key>ru</key>
+    <value>ФИО</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>200</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>
