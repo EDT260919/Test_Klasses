@@ -31,4 +31,5 @@
   </languages>
   <constants>Constant.ФИО</constants>
   <catalogs>Catalog.Товары</catalogs>
+  <reports>Report.СписокТоваров</reports>
 </mdclass:Configuration>
