@@ -45,4 +45,19 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="fd9954cc-2179-4ade-93f3-ac6d70409c2c">
+    <name>ПолноеНаименованиеТовара</name>
+    <synonym>
+      <key>ru</key>
+      <value>Полное наименование товара</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>400</length>
+      </stringQualifiers>
+    </type>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
 </mdclass:Catalog>
