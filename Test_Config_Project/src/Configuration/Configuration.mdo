@@ -3,7 +3,7 @@
   <name>Test_Config</name>
   <synonym>
     <key>ru</key>
-    <value>Тестовая конфигурация</value>
+    <value>Тестовая конфигурация с товарами</value>
   </synonym>
   <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="ed89afde-464b-4c5c-9ae7-7142a885a6ac"/>
   <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="1920f85a-8aad-4be6-8f40-270b28566ddb"/>
